@@ -1,0 +1,50 @@
+com/google/android/stardroid/util/StarAttributeCalculator.java
+ com.google.android.stardroid.util.StarAttributeCalculator
+ com.google.android.stardroid.util.StarAttributeCalculator$Channel
+com/google/android/stardroid/data/MessierAsciiProtoWriter.java
+ com.google.android.stardroid.data.MessierAsciiProtoWriter
+com/google/android/stardroid/data/AbstractAsciiProtoWriter.java
+ com.google.android.stardroid.data.AbstractAsciiProtoWriter
+com/google/android/stardroid/data/AsciiToBinaryProtoWriter.java
+ com.google.android.stardroid.data.AsciiToBinaryProtoWriter
+android/util/FloatMath.java
+ android.util.FloatMath
+android/graphics/Color.java
+ android.graphics.Color
+com/google/android/stardroid/data/StellarAsciiProtoWriter.java
+ com.google.android.stardroid.data.StellarAsciiProtoWriter
+com/google/android/stardroid/source/proto/SourceProto.java
+ com.google.android.stardroid.source.proto.SourceProto
+ com.google.android.stardroid.source.proto.SourceProto$1
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourceProto
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourceProto$1
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourceProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourceProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourcesProto
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourcesProto$1
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourcesProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourcesProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$GeocentricCoordinatesProto
+ com.google.android.stardroid.source.proto.SourceProto$GeocentricCoordinatesProto$1
+ com.google.android.stardroid.source.proto.SourceProto$GeocentricCoordinatesProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$GeocentricCoordinatesProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$LabelElementProto
+ com.google.android.stardroid.source.proto.SourceProto$LabelElementProto$1
+ com.google.android.stardroid.source.proto.SourceProto$LabelElementProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$LabelElementProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$LineElementProto
+ com.google.android.stardroid.source.proto.SourceProto$LineElementProto$1
+ com.google.android.stardroid.source.proto.SourceProto$LineElementProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$LineElementProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$PointElementProto
+ com.google.android.stardroid.source.proto.SourceProto$PointElementProto$1
+ com.google.android.stardroid.source.proto.SourceProto$PointElementProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$PointElementProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$Shape
+ com.google.android.stardroid.source.proto.SourceProto$Shape$1
+com/google/android/stardroid/data/Main.java
+ com.google.android.stardroid.data.Main
+ com.google.android.stardroid.data.Main$1
+ com.google.android.stardroid.data.Main$Command
+android/content/res/Resources.java
+ android.content.res.Resources

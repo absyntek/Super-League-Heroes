@@ -1,0 +1,24 @@
+com/google/android/stardroid/source/proto/SourceProto.java
+ com.google.android.stardroid.source.proto.SourceProto
+ com.google.android.stardroid.source.proto.SourceProto$1
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourceProto
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourceProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourceProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourcesProto
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourcesProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$AstronomicalSourcesProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$GeocentricCoordinatesProto
+ com.google.android.stardroid.source.proto.SourceProto$GeocentricCoordinatesProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$GeocentricCoordinatesProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$LabelElementProto
+ com.google.android.stardroid.source.proto.SourceProto$LabelElementProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$LabelElementProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$LineElementProto
+ com.google.android.stardroid.source.proto.SourceProto$LineElementProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$LineElementProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$PointElementProto
+ com.google.android.stardroid.source.proto.SourceProto$PointElementProto$Builder
+ com.google.android.stardroid.source.proto.SourceProto$PointElementProtoOrBuilder
+ com.google.android.stardroid.source.proto.SourceProto$Shape
+ com.google.android.stardroid.source.proto.SourceProto$Shape$1
+ com.google.android.stardroid.source.proto.SourceProto$Shape$ShapeVerifier

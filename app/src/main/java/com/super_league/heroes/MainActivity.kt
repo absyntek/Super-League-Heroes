@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         bind = ActivityMainBinding.inflate(layoutInflater)
         bind.btnMainMenu.setOnClickListener {
-            startActivity(Intent(this, MenuActivity::class.java))
+            startActivity(Intent(this, LoadingActivity::class.java))
         }
         bind.btnMainRadio.setOnClickListener {
             startActivity(Intent(this, RadioActivity::class.java))

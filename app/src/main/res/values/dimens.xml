@@ -12,4 +12,58 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="gallery_spacing">10px</dimen>
+
+
+        <!-- GRID UNITS -->
+        <dimen name="gu_0">0dp</dimen>
+        <dimen name="gu_1dp">1dp</dimen>
+        <dimen name="gu_0_25">2dp</dimen>
+        <dimen name="gu_0_5">4dp</dimen>
+        <dimen name="gu_0_75">6dp</dimen>
+        <dimen name="gu_1">8dp</dimen>
+        <dimen name="gu_1_25">10dp</dimen>
+        <dimen name="gu_1_5">12dp</dimen>
+        <dimen name="gu_1_75">14dp</dimen>
+        <dimen name="gu_2">16dp</dimen>
+        <dimen name="gu_2_5">20dp</dimen>
+        <dimen name="gu_3">24dp</dimen>
+        <dimen name="gu_3_5">28dp</dimen>
+        <dimen name="gu_4">32dp</dimen>
+        <dimen name="gu_4_5">36dp</dimen>
+        <dimen name="gu_5">40dp</dimen>
+        <dimen name="gu_5_5">44dp</dimen>
+        <dimen name="gu_6">48dp</dimen>
+        <dimen name="gu_7">56dp</dimen>
+        <dimen name="gu_8">64dp</dimen>
+        <dimen name="gu_9">72dp</dimen>
+        <dimen name="gu_10">80dp</dimen>
+        <dimen name="gu_11">88dp</dimen>
+        <dimen name="gu_12">96dp</dimen>
+        <dimen name="gu_13">104dp</dimen>
+        <dimen name="gu_14">112dp</dimen>
+        <dimen name="gu_15">120dp</dimen>
+        <dimen name="gu_16">128dp</dimen>
+        <dimen name="gu_18">144dp</dimen>
+        <dimen name="gu_19">152dp</dimen>
+        <dimen name="gu_20">160dp</dimen>
+        <dimen name="gu_24">192dp</dimen>
+        <dimen name="gu_30">240dp</dimen>
+        <dimen name="gu_34">272dp</dimen>
+
+        <dimen name="negative_gu_2">-16dp</dimen>
+        <dimen name="negative_gu_3">-24dp</dimen>
+
+        <dimen name="user_header">60dp</dimen>
+        <dimen name="avatar">48dp</dimen>
+
+        <!--button size-->
+        <dimen name="button_horizontal_xs">8dp</dimen>
+        <dimen name="button_vertical_xs">5dp</dimen>
+        <dimen name="button_horizontal_s">20dp</dimen>
+        <dimen name="button_vertical_s">9.5dp</dimen>
+        <dimen name="button_horizontal_m">30dp</dimen>
+        <dimen name="button_vertical_m">12dp</dimen>
+        <dimen name="button_horizontal_l">35dp</dimen>
+        <dimen name="button_vertical_l">16dp</dimen>
+
 </resources>

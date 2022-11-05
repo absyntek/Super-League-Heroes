@@ -19,19 +19,19 @@
 
     <item android:id="@+id/menu_item_dim"
         android:orderInCategory="1"
-        android:title="Tel"
+        android:title="Menu"
         android:icon="@drawable/outline_phone_white_24dp"
         app:showAsAction="always"/>
 
     <item android:id="@+id/menu_item_scanner"
           android:orderInCategory="2"
-          android:title="Scanner"
+          android:title="Super H 1"
           android:icon="@drawable/baseline_qr_code_scanner_white_24dp"
             app:showAsAction="always" />
 
     <item android:id="@+id/menu_item_time"
           android:orderInCategory="5"
-          android:title="Satellite"
+          android:title="Super H 2"
           android:icon="@drawable/outline_satellite_alt_white_24dp"
         app:showAsAction="always"/>
 </menu>

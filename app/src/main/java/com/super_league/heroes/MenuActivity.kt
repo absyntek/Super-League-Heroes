@@ -9,6 +9,17 @@ class MenuActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         bind = ActivityMenuBinding.inflate(layoutInflater)
+
+        bind.bottomNavigationView.setOnItemSelectedListener {
+            when (it.itemId){
+                R.id.menu_item_dim -> {
+                    val bts = MenuBts()
+                    bts.show(supportFragmentManager, null)
+                    true
+                }
+                else -> false
+            }
+        }
         setContentView(bind.root)
     }
 }
